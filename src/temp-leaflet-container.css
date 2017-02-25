@@ -9,6 +9,9 @@ https://github.com/PaulLeCam/react-leaflet/issues/108
 /*
 https://github.com/alex3165/react-leaflet-draw
 */
+.sr-only {
+  display: none;
+}
 svg {
   pointer-events: auto;
 }
