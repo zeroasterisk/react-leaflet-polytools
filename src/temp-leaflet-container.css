@@ -1,0 +1,14 @@
+/*
+https://github.com/PaulLeCam/react-leaflet/issues/108
+*/
+.leaflet-container {
+  height: 400px;
+  width: 80%;
+  margin: 0 auto;
+}
+/*
+https://github.com/alex3165/react-leaflet-draw
+*/
+svg {
+  pointer-events: auto;
+}
