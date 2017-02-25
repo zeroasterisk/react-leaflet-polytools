@@ -4,7 +4,7 @@
   "description": "React Leaflet Polytools Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/you/repo.git"
+    "url": "https://github.com/zeroasterisk/react-leaflet-polytools.git"
   },
   "license": "MIT",
   "scripts": {
