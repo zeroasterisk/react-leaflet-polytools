@@ -17,7 +17,7 @@ import { EditControl } from 'react-leaflet-draw'
 //    no need to bundle this w/ npm
 import 'leaflet/dist/leaflet.css';
 // and a CSS file for the draw portion
-import './leaflet.draw.css';
+// import './leaflet.draw.css'; <-- loading in .storybook/head.html
 // temp - my custom CSS = crappy hacks, I'd like to remove
 import './temp-leaflet-container.css';
 
